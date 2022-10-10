@@ -1,1 +1,1 @@
-Hello World into script
+echo "Task 0 for hello world"
